@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "antfu.vite",
+        "wayou.vscode-todo-highlight",
+        "streetsidesoftware.code-spell-checker",
+        "ms-ceintl.vscode-language-pack-zh-hant",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag"
+    ]
+}
